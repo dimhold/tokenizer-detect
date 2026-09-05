@@ -1,0 +1,265 @@
+detector	orig_code	lang_code	lang_name	metric	value	source_table
+Entropy + RandomForest	ar	arb_Arab	Arabic	macro_f1	0.4860	MULTITuDE Table 10
+Entropy + RandomForest	ca	cat_Latn	Catalan	macro_f1	0.4721	MULTITuDE Table 10
+Entropy + RandomForest	cs	ces_Latn	Czech	macro_f1	0.4732	MULTITuDE Table 10
+Entropy + RandomForest	de	deu_Latn	German	macro_f1	0.4729	MULTITuDE Table 10
+Entropy + RandomForest	en	eng_Latn	English	macro_f1	0.4703	MULTITuDE Table 10
+Entropy + RandomForest	es	spa_Latn	Spanish	macro_f1	0.4697	MULTITuDE Table 10
+Entropy + RandomForest	nl	nld_Latn	Dutch	macro_f1	0.4692	MULTITuDE Table 10
+Entropy + RandomForest	pt	por_Latn	Portuguese	macro_f1	0.4702	MULTITuDE Table 10
+Entropy + RandomForest	ru	rus_Cyrl	Russian	macro_f1	0.5202	MULTITuDE Table 10
+Entropy + RandomForest	uk	ukr_Cyrl	Ukrainian	macro_f1	0.5040	MULTITuDE Table 10
+Entropy + RandomForest	zh		Chinese	macro_f1	0.4663	MULTITuDE Table 10
+Entropy	ar	arb_Arab	Arabic	macro_f1	0.4704	MULTITuDE Table 10
+Entropy	ca	cat_Latn	Catalan	macro_f1	0.4705	MULTITuDE Table 10
+Entropy	cs	ces_Latn	Czech	macro_f1	0.4705	MULTITuDE Table 10
+Entropy	de	deu_Latn	German	macro_f1	0.4712	MULTITuDE Table 10
+Entropy	en	eng_Latn	English	macro_f1	0.4706	MULTITuDE Table 10
+Entropy	es	spa_Latn	Spanish	macro_f1	0.4720	MULTITuDE Table 10
+Entropy	nl	nld_Latn	Dutch	macro_f1	0.4706	MULTITuDE Table 10
+Entropy	pt	por_Latn	Portuguese	macro_f1	0.4716	MULTITuDE Table 10
+Entropy	ru	rus_Cyrl	Russian	macro_f1	0.4702	MULTITuDE Table 10
+Entropy	uk	ukr_Cyrl	Ukrainian	macro_f1	0.4704	MULTITuDE Table 10
+Entropy	zh		Chinese	macro_f1	0.4704	MULTITuDE Table 10
+Rank	ar	arb_Arab	Arabic	macro_f1	0.4704	MULTITuDE Table 10
+Rank	ca	cat_Latn	Catalan	macro_f1	0.4705	MULTITuDE Table 10
+Rank	cs	ces_Latn	Czech	macro_f1	0.4705	MULTITuDE Table 10
+Rank	de	deu_Latn	German	macro_f1	0.4712	MULTITuDE Table 10
+Rank	en	eng_Latn	English	macro_f1	0.4706	MULTITuDE Table 10
+Rank	es	spa_Latn	Spanish	macro_f1	0.4720	MULTITuDE Table 10
+Rank	nl	nld_Latn	Dutch	macro_f1	0.4706	MULTITuDE Table 10
+Rank	pt	por_Latn	Portuguese	macro_f1	0.4716	MULTITuDE Table 10
+Rank	ru	rus_Cyrl	Russian	macro_f1	0.4702	MULTITuDE Table 10
+Rank	uk	ukr_Cyrl	Ukrainian	macro_f1	0.4704	MULTITuDE Table 10
+Rank	zh		Chinese	macro_f1	0.4704	MULTITuDE Table 10
+DetectGPT	ar	arb_Arab	Arabic	macro_f1	0.4704	MULTITuDE Table 10
+DetectGPT	ca	cat_Latn	Catalan	macro_f1	0.4705	MULTITuDE Table 10
+DetectGPT	cs	ces_Latn	Czech	macro_f1	0.4705	MULTITuDE Table 10
+DetectGPT	de	deu_Latn	German	macro_f1	0.4712	MULTITuDE Table 10
+DetectGPT	en	eng_Latn	English	macro_f1	0.4706	MULTITuDE Table 10
+DetectGPT	es	spa_Latn	Spanish	macro_f1	0.4720	MULTITuDE Table 10
+DetectGPT	nl	nld_Latn	Dutch	macro_f1	0.4706	MULTITuDE Table 10
+DetectGPT	pt	por_Latn	Portuguese	macro_f1	0.4716	MULTITuDE Table 10
+DetectGPT	ru	rus_Cyrl	Russian	macro_f1	0.4702	MULTITuDE Table 10
+DetectGPT	uk	ukr_Cyrl	Ukrainian	macro_f1	0.4704	MULTITuDE Table 10
+DetectGPT	zh		Chinese	macro_f1	0.4704	MULTITuDE Table 10
+Log-Rank	ar	arb_Arab	Arabic	macro_f1	0.4702	MULTITuDE Table 10
+Log-Rank	ca	cat_Latn	Catalan	macro_f1	0.4705	MULTITuDE Table 10
+Log-Rank	cs	ces_Latn	Czech	macro_f1	0.4705	MULTITuDE Table 10
+Log-Rank	de	deu_Latn	German	macro_f1	0.4712	MULTITuDE Table 10
+Log-Rank	en	eng_Latn	English	macro_f1	0.4706	MULTITuDE Table 10
+Log-Rank	es	spa_Latn	Spanish	macro_f1	0.4720	MULTITuDE Table 10
+Log-Rank	nl	nld_Latn	Dutch	macro_f1	0.4706	MULTITuDE Table 10
+Log-Rank	pt	por_Latn	Portuguese	macro_f1	0.4716	MULTITuDE Table 10
+Log-Rank	ru	rus_Cyrl	Russian	macro_f1	0.4698	MULTITuDE Table 10
+Log-Rank	uk	ukr_Cyrl	Ukrainian	macro_f1	0.4703	MULTITuDE Table 10
+Log-Rank	zh		Chinese	macro_f1	0.4644	MULTITuDE Table 10
+Log-likelihood	ar	arb_Arab	Arabic	macro_f1	0.4702	MULTITuDE Table 10
+Log-likelihood	ca	cat_Latn	Catalan	macro_f1	0.4705	MULTITuDE Table 10
+Log-likelihood	cs	ces_Latn	Czech	macro_f1	0.4705	MULTITuDE Table 10
+Log-likelihood	de	deu_Latn	German	macro_f1	0.4712	MULTITuDE Table 10
+Log-likelihood	en	eng_Latn	English	macro_f1	0.4706	MULTITuDE Table 10
+Log-likelihood	es	spa_Latn	Spanish	macro_f1	0.4720	MULTITuDE Table 10
+Log-likelihood	nl	nld_Latn	Dutch	macro_f1	0.4706	MULTITuDE Table 10
+Log-likelihood	pt	por_Latn	Portuguese	macro_f1	0.4716	MULTITuDE Table 10
+Log-likelihood	ru	rus_Cyrl	Russian	macro_f1	0.4699	MULTITuDE Table 10
+Log-likelihood	uk	ukr_Cyrl	Ukrainian	macro_f1	0.4703	MULTITuDE Table 10
+Log-likelihood	zh		Chinese	macro_f1	0.4662	MULTITuDE Table 10
+GLTR Test-2 (Rank)	ar	arb_Arab	Arabic	macro_f1	0.4239	MULTITuDE Table 10
+GLTR Test-2 (Rank)	ca	cat_Latn	Catalan	macro_f1	0.4702	MULTITuDE Table 10
+GLTR Test-2 (Rank)	cs	ces_Latn	Czech	macro_f1	0.4700	MULTITuDE Table 10
+GLTR Test-2 (Rank)	de	deu_Latn	German	macro_f1	0.4701	MULTITuDE Table 10
+GLTR Test-2 (Rank)	en	eng_Latn	English	macro_f1	0.4706	MULTITuDE Table 10
+GLTR Test-2 (Rank)	es	spa_Latn	Spanish	macro_f1	0.4720	MULTITuDE Table 10
+GLTR Test-2 (Rank)	nl	nld_Latn	Dutch	macro_f1	0.4703	MULTITuDE Table 10
+GLTR Test-2 (Rank)	pt	por_Latn	Portuguese	macro_f1	0.4711	MULTITuDE Table 10
+GLTR Test-2 (Rank)	ru	rus_Cyrl	Russian	macro_f1	0.4697	MULTITuDE Table 10
+GLTR Test-2 (Rank)	uk	ukr_Cyrl	Ukrainian	macro_f1	0.4697	MULTITuDE Table 10
+GLTR Test-2 (Rank)	zh		Chinese	macro_f1	0.4653	MULTITuDE Table 10
+ZeroGPT	ar	arb_Arab	Arabic	macro_f1	0.3055	MULTITuDE Table 10
+ZeroGPT	ca	cat_Latn	Catalan	macro_f1	0.4807	MULTITuDE Table 10
+ZeroGPT	cs	ces_Latn	Czech	macro_f1	0.4509	MULTITuDE Table 10
+ZeroGPT	de	deu_Latn	German	macro_f1	0.4019	MULTITuDE Table 10
+ZeroGPT	en	eng_Latn	English	macro_f1	0.5979	MULTITuDE Table 10
+ZeroGPT	es	spa_Latn	Spanish	macro_f1	0.4750	MULTITuDE Table 10
+ZeroGPT	nl	nld_Latn	Dutch	macro_f1	0.4625	MULTITuDE Table 10
+ZeroGPT	pt	por_Latn	Portuguese	macro_f1	0.4510	MULTITuDE Table 10
+ZeroGPT	ru	rus_Cyrl	Russian	macro_f1	0.4194	MULTITuDE Table 10
+ZeroGPT	uk	ukr_Cyrl	Ukrainian	macro_f1	0.4267	MULTITuDE Table 10
+ZeroGPT	zh		Chinese	macro_f1	0.1398	MULTITuDE Table 10
+GPTZero	ar	arb_Arab	Arabic	macro_f1	0.1128	MULTITuDE Table 10
+GPTZero	ca	cat_Latn	Catalan	macro_f1	0.1057	MULTITuDE Table 10
+GPTZero	cs	ces_Latn	Czech	macro_f1	0.1040	MULTITuDE Table 10
+GPTZero	de	deu_Latn	German	macro_f1	0.0999	MULTITuDE Table 10
+GPTZero	en	eng_Latn	English	macro_f1	0.5626	MULTITuDE Table 10
+GPTZero	es	spa_Latn	Spanish	macro_f1	0.0973	MULTITuDE Table 10
+GPTZero	nl	nld_Latn	Dutch	macro_f1	0.1044	MULTITuDE Table 10
+GPTZero	pt	por_Latn	Portuguese	macro_f1	0.1010	MULTITuDE Table 10
+GPTZero	ru	rus_Cyrl	Russian	macro_f1	0.1042	MULTITuDE Table 10
+GPTZero	uk	ukr_Cyrl	Ukrainian	macro_f1	0.1014	MULTITuDE Table 10
+GPTZero	zh		Chinese	macro_f1	0.1189	MULTITuDE Table 10
+All Detectors Mean [fine-tuned, train_lang=en]	ar	arb_Arab	Arabic	macro_f1	0.5016	MULTITuDE Table 11
+All Detectors Mean [fine-tuned, train_lang=en]	ca	cat_Latn	Catalan	macro_f1	0.6412	MULTITuDE Table 11
+All Detectors Mean [fine-tuned, train_lang=en]	cs	ces_Latn	Czech	macro_f1	0.5909	MULTITuDE Table 11
+All Detectors Mean [fine-tuned, train_lang=en]	de	deu_Latn	German	macro_f1	0.6578	MULTITuDE Table 11
+All Detectors Mean [fine-tuned, train_lang=en]	en	eng_Latn	English	macro_f1	0.9361	MULTITuDE Table 11
+All Detectors Mean [fine-tuned, train_lang=en]	es	spa_Latn	Spanish	macro_f1	0.6284	MULTITuDE Table 11
+All Detectors Mean [fine-tuned, train_lang=en]	nl	nld_Latn	Dutch	macro_f1	0.6703	MULTITuDE Table 11
+All Detectors Mean [fine-tuned, train_lang=en]	pt	por_Latn	Portuguese	macro_f1	0.6273	MULTITuDE Table 11
+All Detectors Mean [fine-tuned, train_lang=en]	ru	rus_Cyrl	Russian	macro_f1	0.5976	MULTITuDE Table 11
+All Detectors Mean [fine-tuned, train_lang=en]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.5832	MULTITuDE Table 11
+All Detectors Mean [fine-tuned, train_lang=en]	zh		Chinese	macro_f1	0.4902	MULTITuDE Table 11
+Multilingual Base Models Mean [fine-tuned, train_lang=en]	ar	arb_Arab	Arabic	macro_f1	0.5448	MULTITuDE Table 11
+Multilingual Base Models Mean [fine-tuned, train_lang=en]	ca	cat_Latn	Catalan	macro_f1	0.7335	MULTITuDE Table 11
+Multilingual Base Models Mean [fine-tuned, train_lang=en]	cs	ces_Latn	Czech	macro_f1	0.6793	MULTITuDE Table 11
+Multilingual Base Models Mean [fine-tuned, train_lang=en]	de	deu_Latn	German	macro_f1	0.8104	MULTITuDE Table 11
+Multilingual Base Models Mean [fine-tuned, train_lang=en]	en	eng_Latn	English	macro_f1	0.9292	MULTITuDE Table 11
+Multilingual Base Models Mean [fine-tuned, train_lang=en]	es	spa_Latn	Spanish	macro_f1	0.7018	MULTITuDE Table 11
+Multilingual Base Models Mean [fine-tuned, train_lang=en]	nl	nld_Latn	Dutch	macro_f1	0.7508	MULTITuDE Table 11
+Multilingual Base Models Mean [fine-tuned, train_lang=en]	pt	por_Latn	Portuguese	macro_f1	0.7362	MULTITuDE Table 11
+Multilingual Base Models Mean [fine-tuned, train_lang=en]	ru	rus_Cyrl	Russian	macro_f1	0.7148	MULTITuDE Table 11
+Multilingual Base Models Mean [fine-tuned, train_lang=en]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.6746	MULTITuDE Table 11
+Multilingual Base Models Mean [fine-tuned, train_lang=en]	zh		Chinese	macro_f1	0.5580	MULTITuDE Table 11
+Monolingual Base Models Mean [fine-tuned, train_lang=en]	ar	arb_Arab	Arabic	macro_f1	0.4440	MULTITuDE Table 11
+Monolingual Base Models Mean [fine-tuned, train_lang=en]	ca	cat_Latn	Catalan	macro_f1	0.5182	MULTITuDE Table 11
+Monolingual Base Models Mean [fine-tuned, train_lang=en]	cs	ces_Latn	Czech	macro_f1	0.4730	MULTITuDE Table 11
+Monolingual Base Models Mean [fine-tuned, train_lang=en]	de	deu_Latn	German	macro_f1	0.4544	MULTITuDE Table 11
+Monolingual Base Models Mean [fine-tuned, train_lang=en]	en	eng_Latn	English	macro_f1	0.9454	MULTITuDE Table 11
+Monolingual Base Models Mean [fine-tuned, train_lang=en]	es	spa_Latn	Spanish	macro_f1	0.5304	MULTITuDE Table 11
+Monolingual Base Models Mean [fine-tuned, train_lang=en]	nl	nld_Latn	Dutch	macro_f1	0.5629	MULTITuDE Table 11
+Monolingual Base Models Mean [fine-tuned, train_lang=en]	pt	por_Latn	Portuguese	macro_f1	0.4822	MULTITuDE Table 11
+Monolingual Base Models Mean [fine-tuned, train_lang=en]	ru	rus_Cyrl	Russian	macro_f1	0.4412	MULTITuDE Table 11
+Monolingual Base Models Mean [fine-tuned, train_lang=en]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.4613	MULTITuDE Table 11
+Monolingual Base Models Mean [fine-tuned, train_lang=en]	zh		Chinese	macro_f1	0.3999	MULTITuDE Table 11
+All Detectors Mean [fine-tuned, train_lang=es]	ar	arb_Arab	Arabic	macro_f1	0.6480	MULTITuDE Table 12
+All Detectors Mean [fine-tuned, train_lang=es]	ca	cat_Latn	Catalan	macro_f1	0.8413	MULTITuDE Table 12
+All Detectors Mean [fine-tuned, train_lang=es]	cs	ces_Latn	Czech	macro_f1	0.7300	MULTITuDE Table 12
+All Detectors Mean [fine-tuned, train_lang=es]	de	deu_Latn	German	macro_f1	0.7850	MULTITuDE Table 12
+All Detectors Mean [fine-tuned, train_lang=es]	en	eng_Latn	English	macro_f1	0.5790	MULTITuDE Table 12
+All Detectors Mean [fine-tuned, train_lang=es]	es	spa_Latn	Spanish	macro_f1	0.9259	MULTITuDE Table 12
+All Detectors Mean [fine-tuned, train_lang=es]	nl	nld_Latn	Dutch	macro_f1	0.7689	MULTITuDE Table 12
+All Detectors Mean [fine-tuned, train_lang=es]	pt	por_Latn	Portuguese	macro_f1	0.8749	MULTITuDE Table 12
+All Detectors Mean [fine-tuned, train_lang=es]	ru	rus_Cyrl	Russian	macro_f1	0.6804	MULTITuDE Table 12
+All Detectors Mean [fine-tuned, train_lang=es]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.6800	MULTITuDE Table 12
+All Detectors Mean [fine-tuned, train_lang=es]	zh		Chinese	macro_f1	0.6082	MULTITuDE Table 12
+Multilingual Base Models Mean [fine-tuned, train_lang=es]	ar	arb_Arab	Arabic	macro_f1	0.7857	MULTITuDE Table 12
+Multilingual Base Models Mean [fine-tuned, train_lang=es]	ca	cat_Latn	Catalan	macro_f1	0.8747	MULTITuDE Table 12
+Multilingual Base Models Mean [fine-tuned, train_lang=es]	cs	ces_Latn	Czech	macro_f1	0.8016	MULTITuDE Table 12
+Multilingual Base Models Mean [fine-tuned, train_lang=es]	de	deu_Latn	German	macro_f1	0.8812	MULTITuDE Table 12
+Multilingual Base Models Mean [fine-tuned, train_lang=es]	en	eng_Latn	English	macro_f1	0.7322	MULTITuDE Table 12
+Multilingual Base Models Mean [fine-tuned, train_lang=es]	es	spa_Latn	Spanish	macro_f1	0.9314	MULTITuDE Table 12
+Multilingual Base Models Mean [fine-tuned, train_lang=es]	nl	nld_Latn	Dutch	macro_f1	0.8143	MULTITuDE Table 12
+Multilingual Base Models Mean [fine-tuned, train_lang=es]	pt	por_Latn	Portuguese	macro_f1	0.8944	MULTITuDE Table 12
+Multilingual Base Models Mean [fine-tuned, train_lang=es]	ru	rus_Cyrl	Russian	macro_f1	0.8375	MULTITuDE Table 12
+Multilingual Base Models Mean [fine-tuned, train_lang=es]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.8299	MULTITuDE Table 12
+Multilingual Base Models Mean [fine-tuned, train_lang=es]	zh		Chinese	macro_f1	0.7216	MULTITuDE Table 12
+Monolingual Base Models Mean [fine-tuned, train_lang=es]	ar	arb_Arab	Arabic	macro_f1	0.4644	MULTITuDE Table 12
+Monolingual Base Models Mean [fine-tuned, train_lang=es]	ca	cat_Latn	Catalan	macro_f1	0.7967	MULTITuDE Table 12
+Monolingual Base Models Mean [fine-tuned, train_lang=es]	cs	ces_Latn	Czech	macro_f1	0.6346	MULTITuDE Table 12
+Monolingual Base Models Mean [fine-tuned, train_lang=es]	de	deu_Latn	German	macro_f1	0.6568	MULTITuDE Table 12
+Monolingual Base Models Mean [fine-tuned, train_lang=es]	en	eng_Latn	English	macro_f1	0.3748	MULTITuDE Table 12
+Monolingual Base Models Mean [fine-tuned, train_lang=es]	es	spa_Latn	Spanish	macro_f1	0.9187	MULTITuDE Table 12
+Monolingual Base Models Mean [fine-tuned, train_lang=es]	nl	nld_Latn	Dutch	macro_f1	0.7082	MULTITuDE Table 12
+Monolingual Base Models Mean [fine-tuned, train_lang=es]	pt	por_Latn	Portuguese	macro_f1	0.8488	MULTITuDE Table 12
+Monolingual Base Models Mean [fine-tuned, train_lang=es]	ru	rus_Cyrl	Russian	macro_f1	0.4710	MULTITuDE Table 12
+Monolingual Base Models Mean [fine-tuned, train_lang=es]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.4801	MULTITuDE Table 12
+Monolingual Base Models Mean [fine-tuned, train_lang=es]	zh		Chinese	macro_f1	0.4569	MULTITuDE Table 12
+All Detectors Mean [fine-tuned, train_lang=ru]	ar	arb_Arab	Arabic	macro_f1	0.7421	MULTITuDE Table 13
+All Detectors Mean [fine-tuned, train_lang=ru]	ca	cat_Latn	Catalan	macro_f1	0.5274	MULTITuDE Table 13
+All Detectors Mean [fine-tuned, train_lang=ru]	cs	ces_Latn	Czech	macro_f1	0.6171	MULTITuDE Table 13
+All Detectors Mean [fine-tuned, train_lang=ru]	de	deu_Latn	German	macro_f1	0.5914	MULTITuDE Table 13
+All Detectors Mean [fine-tuned, train_lang=ru]	en	eng_Latn	English	macro_f1	0.4795	MULTITuDE Table 13
+All Detectors Mean [fine-tuned, train_lang=ru]	es	spa_Latn	Spanish	macro_f1	0.5614	MULTITuDE Table 13
+All Detectors Mean [fine-tuned, train_lang=ru]	nl	nld_Latn	Dutch	macro_f1	0.5524	MULTITuDE Table 13
+All Detectors Mean [fine-tuned, train_lang=ru]	pt	por_Latn	Portuguese	macro_f1	0.5369	MULTITuDE Table 13
+All Detectors Mean [fine-tuned, train_lang=ru]	ru	rus_Cyrl	Russian	macro_f1	0.8870	MULTITuDE Table 13
+All Detectors Mean [fine-tuned, train_lang=ru]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.8557	MULTITuDE Table 13
+All Detectors Mean [fine-tuned, train_lang=ru]	zh		Chinese	macro_f1	0.6183	MULTITuDE Table 13
+Multilingual Base Models Mean [fine-tuned, train_lang=ru]	ar	arb_Arab	Arabic	macro_f1	0.8487	MULTITuDE Table 13
+Multilingual Base Models Mean [fine-tuned, train_lang=ru]	ca	cat_Latn	Catalan	macro_f1	0.6532	MULTITuDE Table 13
+Multilingual Base Models Mean [fine-tuned, train_lang=ru]	cs	ces_Latn	Czech	macro_f1	0.7924	MULTITuDE Table 13
+Multilingual Base Models Mean [fine-tuned, train_lang=ru]	de	deu_Latn	German	macro_f1	0.7591	MULTITuDE Table 13
+Multilingual Base Models Mean [fine-tuned, train_lang=ru]	en	eng_Latn	English	macro_f1	0.5760	MULTITuDE Table 13
+Multilingual Base Models Mean [fine-tuned, train_lang=ru]	es	spa_Latn	Spanish	macro_f1	0.6884	MULTITuDE Table 13
+Multilingual Base Models Mean [fine-tuned, train_lang=ru]	nl	nld_Latn	Dutch	macro_f1	0.6915	MULTITuDE Table 13
+Multilingual Base Models Mean [fine-tuned, train_lang=ru]	pt	por_Latn	Portuguese	macro_f1	0.6626	MULTITuDE Table 13
+Multilingual Base Models Mean [fine-tuned, train_lang=ru]	ru	rus_Cyrl	Russian	macro_f1	0.9522	MULTITuDE Table 13
+Multilingual Base Models Mean [fine-tuned, train_lang=ru]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.9387	MULTITuDE Table 13
+Multilingual Base Models Mean [fine-tuned, train_lang=ru]	zh		Chinese	macro_f1	0.7294	MULTITuDE Table 13
+Monolingual Base Models Mean [fine-tuned, train_lang=ru]	ar	arb_Arab	Arabic	macro_f1	0.6001	MULTITuDE Table 13
+Monolingual Base Models Mean [fine-tuned, train_lang=ru]	ca	cat_Latn	Catalan	macro_f1	0.3596	MULTITuDE Table 13
+Monolingual Base Models Mean [fine-tuned, train_lang=ru]	cs	ces_Latn	Czech	macro_f1	0.3835	MULTITuDE Table 13
+Monolingual Base Models Mean [fine-tuned, train_lang=ru]	de	deu_Latn	German	macro_f1	0.3677	MULTITuDE Table 13
+Monolingual Base Models Mean [fine-tuned, train_lang=ru]	en	eng_Latn	English	macro_f1	0.3508	MULTITuDE Table 13
+Monolingual Base Models Mean [fine-tuned, train_lang=ru]	es	spa_Latn	Spanish	macro_f1	0.3920	MULTITuDE Table 13
+Monolingual Base Models Mean [fine-tuned, train_lang=ru]	nl	nld_Latn	Dutch	macro_f1	0.3669	MULTITuDE Table 13
+Monolingual Base Models Mean [fine-tuned, train_lang=ru]	pt	por_Latn	Portuguese	macro_f1	0.3692	MULTITuDE Table 13
+Monolingual Base Models Mean [fine-tuned, train_lang=ru]	ru	rus_Cyrl	Russian	macro_f1	0.8000	MULTITuDE Table 13
+Monolingual Base Models Mean [fine-tuned, train_lang=ru]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.7451	MULTITuDE Table 13
+Monolingual Base Models Mean [fine-tuned, train_lang=ru]	zh		Chinese	macro_f1	0.4701	MULTITuDE Table 13
+All Detectors Mean [fine-tuned, train_lang=all]	ar	arb_Arab	Arabic	macro_f1	0.7463	MULTITuDE Table 14
+All Detectors Mean [fine-tuned, train_lang=all]	ca	cat_Latn	Catalan	macro_f1	0.8765	MULTITuDE Table 14
+All Detectors Mean [fine-tuned, train_lang=all]	cs	ces_Latn	Czech	macro_f1	0.7918	MULTITuDE Table 14
+All Detectors Mean [fine-tuned, train_lang=all]	de	deu_Latn	German	macro_f1	0.8300	MULTITuDE Table 14
+All Detectors Mean [fine-tuned, train_lang=all]	en	eng_Latn	English	macro_f1	0.9472	MULTITuDE Table 14
+All Detectors Mean [fine-tuned, train_lang=all]	es	spa_Latn	Spanish	macro_f1	0.9375	MULTITuDE Table 14
+All Detectors Mean [fine-tuned, train_lang=all]	nl	nld_Latn	Dutch	macro_f1	0.8407	MULTITuDE Table 14
+All Detectors Mean [fine-tuned, train_lang=all]	pt	por_Latn	Portuguese	macro_f1	0.9099	MULTITuDE Table 14
+All Detectors Mean [fine-tuned, train_lang=all]	ru	rus_Cyrl	Russian	macro_f1	0.8592	MULTITuDE Table 14
+All Detectors Mean [fine-tuned, train_lang=all]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.8296	MULTITuDE Table 14
+All Detectors Mean [fine-tuned, train_lang=all]	zh		Chinese	macro_f1	0.6558	MULTITuDE Table 14
+Multilingual Base Models Mean [fine-tuned, train_lang=all]	ar	arb_Arab	Arabic	macro_f1	0.8537	MULTITuDE Table 14
+Multilingual Base Models Mean [fine-tuned, train_lang=all]	ca	cat_Latn	Catalan	macro_f1	0.8977	MULTITuDE Table 14
+Multilingual Base Models Mean [fine-tuned, train_lang=all]	cs	ces_Latn	Czech	macro_f1	0.8604	MULTITuDE Table 14
+Multilingual Base Models Mean [fine-tuned, train_lang=all]	de	deu_Latn	German	macro_f1	0.9073	MULTITuDE Table 14
+Multilingual Base Models Mean [fine-tuned, train_lang=all]	en	eng_Latn	English	macro_f1	0.9420	MULTITuDE Table 14
+Multilingual Base Models Mean [fine-tuned, train_lang=all]	es	spa_Latn	Spanish	macro_f1	0.9372	MULTITuDE Table 14
+Multilingual Base Models Mean [fine-tuned, train_lang=all]	nl	nld_Latn	Dutch	macro_f1	0.8808	MULTITuDE Table 14
+Multilingual Base Models Mean [fine-tuned, train_lang=all]	pt	por_Latn	Portuguese	macro_f1	0.9253	MULTITuDE Table 14
+Multilingual Base Models Mean [fine-tuned, train_lang=all]	ru	rus_Cyrl	Russian	macro_f1	0.9560	MULTITuDE Table 14
+Multilingual Base Models Mean [fine-tuned, train_lang=all]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.9374	MULTITuDE Table 14
+Multilingual Base Models Mean [fine-tuned, train_lang=all]	zh		Chinese	macro_f1	0.7659	MULTITuDE Table 14
+Monolingual Base Models Mean [fine-tuned, train_lang=all]	ar	arb_Arab	Arabic	macro_f1	0.6031	MULTITuDE Table 14
+Monolingual Base Models Mean [fine-tuned, train_lang=all]	ca	cat_Latn	Catalan	macro_f1	0.8482	MULTITuDE Table 14
+Monolingual Base Models Mean [fine-tuned, train_lang=all]	cs	ces_Latn	Czech	macro_f1	0.7003	MULTITuDE Table 14
+Monolingual Base Models Mean [fine-tuned, train_lang=all]	de	deu_Latn	German	macro_f1	0.7269	MULTITuDE Table 14
+Monolingual Base Models Mean [fine-tuned, train_lang=all]	en	eng_Latn	English	macro_f1	0.9542	MULTITuDE Table 14
+Monolingual Base Models Mean [fine-tuned, train_lang=all]	es	spa_Latn	Spanish	macro_f1	0.9380	MULTITuDE Table 14
+Monolingual Base Models Mean [fine-tuned, train_lang=all]	nl	nld_Latn	Dutch	macro_f1	0.7872	MULTITuDE Table 14
+Monolingual Base Models Mean [fine-tuned, train_lang=all]	pt	por_Latn	Portuguese	macro_f1	0.8895	MULTITuDE Table 14
+Monolingual Base Models Mean [fine-tuned, train_lang=all]	ru	rus_Cyrl	Russian	macro_f1	0.7301	MULTITuDE Table 14
+Monolingual Base Models Mean [fine-tuned, train_lang=all]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.6859	MULTITuDE Table 14
+Monolingual Base Models Mean [fine-tuned, train_lang=all]	zh		Chinese	macro_f1	0.5090	MULTITuDE Table 14
+All Detectors Mean [fine-tuned, train_lang=en3]	ar	arb_Arab	Arabic	macro_f1	0.4931	MULTITuDE Table 15
+All Detectors Mean [fine-tuned, train_lang=en3]	ca	cat_Latn	Catalan	macro_f1	0.6568	MULTITuDE Table 15
+All Detectors Mean [fine-tuned, train_lang=en3]	cs	ces_Latn	Czech	macro_f1	0.6270	MULTITuDE Table 15
+All Detectors Mean [fine-tuned, train_lang=en3]	de	deu_Latn	German	macro_f1	0.6871	MULTITuDE Table 15
+All Detectors Mean [fine-tuned, train_lang=en3]	en	eng_Latn	English	macro_f1	0.9529	MULTITuDE Table 15
+All Detectors Mean [fine-tuned, train_lang=en3]	es	spa_Latn	Spanish	macro_f1	0.6476	MULTITuDE Table 15
+All Detectors Mean [fine-tuned, train_lang=en3]	nl	nld_Latn	Dutch	macro_f1	0.6800	MULTITuDE Table 15
+All Detectors Mean [fine-tuned, train_lang=en3]	pt	por_Latn	Portuguese	macro_f1	0.6497	MULTITuDE Table 15
+All Detectors Mean [fine-tuned, train_lang=en3]	ru	rus_Cyrl	Russian	macro_f1	0.5759	MULTITuDE Table 15
+All Detectors Mean [fine-tuned, train_lang=en3]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.5716	MULTITuDE Table 15
+All Detectors Mean [fine-tuned, train_lang=en3]	zh		Chinese	macro_f1	0.5299	MULTITuDE Table 15
+Multilingual Base Models Mean [fine-tuned, train_lang=en3]	ar	arb_Arab	Arabic	macro_f1	0.5605	MULTITuDE Table 15
+Multilingual Base Models Mean [fine-tuned, train_lang=en3]	ca	cat_Latn	Catalan	macro_f1	0.7484	MULTITuDE Table 15
+Multilingual Base Models Mean [fine-tuned, train_lang=en3]	cs	ces_Latn	Czech	macro_f1	0.7289	MULTITuDE Table 15
+Multilingual Base Models Mean [fine-tuned, train_lang=en3]	de	deu_Latn	German	macro_f1	0.8244	MULTITuDE Table 15
+Multilingual Base Models Mean [fine-tuned, train_lang=en3]	en	eng_Latn	English	macro_f1	0.9392	MULTITuDE Table 15
+Multilingual Base Models Mean [fine-tuned, train_lang=en3]	es	spa_Latn	Spanish	macro_f1	0.7156	MULTITuDE Table 15
+Multilingual Base Models Mean [fine-tuned, train_lang=en3]	nl	nld_Latn	Dutch	macro_f1	0.7778	MULTITuDE Table 15
+Multilingual Base Models Mean [fine-tuned, train_lang=en3]	pt	por_Latn	Portuguese	macro_f1	0.7508	MULTITuDE Table 15
+Multilingual Base Models Mean [fine-tuned, train_lang=en3]	ru	rus_Cyrl	Russian	macro_f1	0.7092	MULTITuDE Table 15
+Multilingual Base Models Mean [fine-tuned, train_lang=en3]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.7118	MULTITuDE Table 15
+Multilingual Base Models Mean [fine-tuned, train_lang=en3]	zh		Chinese	macro_f1	0.6160	MULTITuDE Table 15
+Monolingual Base Models Mean [fine-tuned, train_lang=en3]	ar	arb_Arab	Arabic	macro_f1	0.4033	MULTITuDE Table 15
+Monolingual Base Models Mean [fine-tuned, train_lang=en3]	ca	cat_Latn	Catalan	macro_f1	0.5346	MULTITuDE Table 15
+Monolingual Base Models Mean [fine-tuned, train_lang=en3]	cs	ces_Latn	Czech	macro_f1	0.4912	MULTITuDE Table 15
+Monolingual Base Models Mean [fine-tuned, train_lang=en3]	de	deu_Latn	German	macro_f1	0.5040	MULTITuDE Table 15
+Monolingual Base Models Mean [fine-tuned, train_lang=en3]	en	eng_Latn	English	macro_f1	0.9712	MULTITuDE Table 15
+Monolingual Base Models Mean [fine-tuned, train_lang=en3]	es	spa_Latn	Spanish	macro_f1	0.5570	MULTITuDE Table 15
+Monolingual Base Models Mean [fine-tuned, train_lang=en3]	nl	nld_Latn	Dutch	macro_f1	0.5497	MULTITuDE Table 15
+Monolingual Base Models Mean [fine-tuned, train_lang=en3]	pt	por_Latn	Portuguese	macro_f1	0.5150	MULTITuDE Table 15
+Monolingual Base Models Mean [fine-tuned, train_lang=en3]	ru	rus_Cyrl	Russian	macro_f1	0.3981	MULTITuDE Table 15
+Monolingual Base Models Mean [fine-tuned, train_lang=en3]	uk	ukr_Cyrl	Ukrainian	macro_f1	0.3847	MULTITuDE Table 15
+Monolingual Base Models Mean [fine-tuned, train_lang=en3]	zh		Chinese	macro_f1	0.4152	MULTITuDE Table 15

@@ -1,0 +1,24 @@
+lang_code	orig_code	lang_name	fnr	fpr	source_table
+arb_Arab	Arabic	Arabic	0.9764%	0.0000%	Pangram 4 Table 8
+pes_Arab	Persian	Persian	3.1715%	0.0000%	Pangram 4 Table 8
+	Chinese	Chinese	0.7133%	0.0000%	Pangram 4 Table 8
+pol_Latn	Polish	Polish	—	0.0000%	Pangram 4 Table 8
+ces_Latn	Czech	Czech	0.2760%	0.0000%	Pangram 4 Table 8
+por_Latn	Portuguese	Portuguese	0.9946%	0.0078%	Pangram 4 Table 8
+nld_Latn	Dutch	Dutch	0.8397%	0.0026%	Pangram 4 Table 8
+ron_Latn	Romanian	Romanian	—	0.0000%	Pangram 4 Table 8
+fra_Latn	French	French	1.7839%	0.0026%	Pangram 4 Table 8
+rus_Cyrl	Russian	Russian	0.4850%	0.0052%	Pangram 4 Table 8
+deu_Latn	German	German	1.3258%	0.0026%	Pangram 4 Table 8
+spa_Latn	Spanish	Spanish	0.8867%	0.0026%	Pangram 4 Table 8
+ell_Grek	Greek	Greek	—	0.0000%	Pangram 4 Table 8
+swe_Latn	Swedish	Swedish	—	0.0000%	Pangram 4 Table 8
+hin_Deva	Hindi	Hindi	1.3682%	0.0000%	Pangram 4 Table 8
+tur_Latn	Turkish	Turkish	1.1066%	0.0000%	Pangram 4 Table 8
+hun_Latn	Hungarian	Hungarian	—	0.0000%	Pangram 4 Table 8
+ukr_Cyrl	Ukrainian	Ukrainian	1.5214%	0.0361%	Pangram 4 Table 8
+ita_Latn	Italian	Italian	0.3436%	0.0000%	Pangram 4 Table 8
+urd_Arab	Urdu	Urdu	5.3169%	0.0000%	Pangram 4 Table 8
+jpn_Jpan	Japanese	Japanese	0.9305%	0.0000%	Pangram 4 Table 8
+vie_Latn	Vietnamese	Vietnamese	1.9653%	0.0026%	Pangram 4 Table 8
+kor_Hang	Korean	Korean	0.5805%	0.0000%	Pangram 4 Table 8
