@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this measurement or its data, please cite it as below."
+title: "tokenizer-detect"
+abstract: >-
+  A prerecorded test of the hypothesis that token fertility explains how well a
+  machine text detector works on a language. The X axis is tokens per
+  whitespace word on FLORES-200 devtest over 204 languages and 4 tokenizers,
+  counted locally with zero model calls. The Y axis is copied verbatim from
+  published tables, MULTITuDE macro-F1 and Pangram 4 table 8 FNR and FPR. The
+  headline number is the partial Spearman correlation controlling for the share
+  of the language in CommonCrawl. The hypothesis is refuted by the condition
+  fixed in advance: the sign disagrees between the two sources. The sign of the
+  correlation is set by the language the detector was fine-tuned on, so
+  fertility stands in for the distance between the training language and the
+  language under test. Under a detector fine-tuned on Russian, English ranks
+  last of 10 languages while having the lowest fertility of all 10.
+type: software
+authors:
+  - family-names: "Semenkevich"
+    given-names: "Dmitriy"
+    orcid: "https://orcid.org/0009-0009-3013-4978"
+version: "1.0.0"
+date-released: "2026-09-05"
+license: MIT
+repository-code: "https://github.com/dimhold/tokenizer-detect"
+keywords:
+  - tokenization
+  - token fertility
+  - subword tokenizers
+  - machine generated text detection
+  - multilingual NLP
+  - FLORES-200
+  - partial correlation
+  - confounding
+  - negative result
+  - reproducibility
