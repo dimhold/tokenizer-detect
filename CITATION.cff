@@ -20,6 +20,7 @@ authors:
     given-names: "Dmitriy"
     orcid: "https://orcid.org/0009-0009-3013-4978"
 version: "1.0.0"
+doi: "10.5281/zenodo.22417816"
 date-released: "2026-09-05"
 license: MIT
 repository-code: "https://github.com/dimhold/tokenizer-detect"
